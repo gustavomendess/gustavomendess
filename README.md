@@ -11,9 +11,19 @@
 
 <hr>
 
-I'm a technology enthusiast, enchanted by Ruby on Rails. I'm always looking to update myself and learn about new things. I have professional experience in the area and have been working for more than a year in it. I worked with PHP using the laravel framework and currently work with Ruby On Rails.
+Hello i'm Gustavo
 
-I like taking courses and reading books to seek new knowledge.
+I'm a full-stack developer from Brazil, with 20 years and 2 years of programming.
+
+I'm a technology enthusiast, delighted with Ruby on Rails. I'm always looking to update myself and learn about new things.
+
+I have professional experience in the area and have been working for over a year in it.
+
+I worked with PHP using the laravel framework and currently work with Ruby On Rails.
+
+I like to take courses and read books in search of new knowledge.
+
+I'm an electronic game player and I like to play CS
 
 
 <hr>
