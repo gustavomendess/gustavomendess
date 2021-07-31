@@ -19,7 +19,7 @@ I'm a technology enthusiast, delighted with Ruby on Rails. I'm always looking to
 
 I have professional experience in the area and have been working for over a year in it.
 
-I worked with PHP using the laravel framework and currently work with Ruby On Rails.
+I have worked professionally with PHP using the laravel framework and currently work with Ruby On Rails.
 
 I like to take courses and read books in search of new knowledge.
 
