@@ -36,7 +36,7 @@ I really like to solve problems, help my teammates, write tests and create new t
   <a href = "mailto:gustavocod18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-mendes-1925071a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/gustavomendess/gustavomendess/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/gustavomendess/gustavomendess/1ea39e2277ce8d84516d58792f4ab9b01889b974/github-contribution-grid-snake.svg)
  
 </div>
 
