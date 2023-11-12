@@ -1,12 +1,11 @@
 ## 👋 Hello World, I'm Gustavo! 🌎
 
-I'm a full-stack developer from Brazil, graduate in Systems Analysis and Development, with 21 years and working as a developer since 2020/02
+IT professional, graduated in Systems Analysis and Development, with great experience in Ruby on Rails ecosystem and software engineering processes. 5 years of professional experience, 3 of which working as a software engineer.
 
-I'm a technology enthusiast, delighted with Ruby on Rails. I'm always looking to update myself and learn about new things.
+Experience in construction of applications web, tests, asynchronous communication, API, GraphQL and Docker.
+Business oriented, understanding software engineering goals and needs, motivated to solve problems and help teammates.
 
-I have worked professionally with PHP using the laravel framework and currently work with Ruby On Rails.
-
-I really like to solve problems, help my teammates, write tests and create new things.
+Always searching for professional growth up.
 
 ##
     
