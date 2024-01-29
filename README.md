@@ -1,18 +1,23 @@
 ## 👋 Hello World, I'm Gustavo! 🌎
 
-IT professional, graduated in Systems Analysis and Development, with great experience in Ruby on Rails ecosystem and software engineering processes. 5 years of professional experience, 3 of which working as a software engineer.
+IT professional, graduated in Systems Analysis and Development and is currently pursuing an MBA in Digital Solutions Architecture. I bring a wealth of experience within the Ruby on Rails ecosystem and software engineering processes. 6 years of professional experience, 4 of which working as a software engineer.
 
-Experience in construction of applications web, tests, asynchronous communication, API, GraphQL and Docker.
-Business oriented, understanding software engineering goals and needs, motivated to solve problems and help teammates.
+Experience in building web applications with Ruby on Rails, automated testing, asynchronous communication, API, GraphQL and Docker.
+Business-oriented, understanding software engineering goals and needs, motivated to solve problems and help teammates.
 
-Always searching for professional growth up.
+Always looking for professional growth.
 
 ##
     
 <div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rspec/rspec-original-wordmark.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
@@ -21,8 +26,6 @@ Always searching for professional growth up.
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
 </div>
 
 ##
